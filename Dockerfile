@@ -1,15 +1,18 @@
 FROM alpine:3.15 as base
 
 FROM base as build
-RUN set -ex && apk add --no-cache gcc musl-dev
+RUN set -ex && \
+    apk add --no-cache \
+        gcc=10.3.1_git20211027-r0 \
+        musl-dev=1.2.2-r7
 WORKDIR /tmp
 COPY [ "./src", "." ]
 RUN set -ex && gcc -o main main.c static-list.c
 
 FROM base
 RUN set -ex && \
-    apk add --update --no-cache \
-        bash=5.1.4-r0 
+    apk add --no-cache \
+        bash=5.1.8-r0
 WORKDIR /usr/src/app
 COPY --from=build [ "/tmp/main", "." ]
 
