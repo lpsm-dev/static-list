@@ -43,6 +43,22 @@ If you want contribute on this project, first you need to make a **git clone**:
 
 This will give you access to the code on your **local machine**.
 
+## ➤ Features
+
+- Create a static list in a simple way.
+- Initialize static list struct with default values.
+- Create a function to return de list size.
+- Create a function that check if the list is empty.
+- Create a function that check if the list is full.
+- Insert element at the beginning of the list.
+- Insert element at the end of the list.
+- Remove element at the beginning of the list.
+- Remove element at the end of the list.
+- Search element by position in list.
+- Search element by content in list.
+- Destroy list reference of memory.
+- Pretty console flow.
+
 ## ➤ Demo <a name = "demo"></a>
 
 https://user-images.githubusercontent.com/58797390/148273067-b6de6695-21c0-4ab7-ae9c-c8cd9eb4fbb5.mov
