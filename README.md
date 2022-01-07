@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  ✨ A console application written in C to implement a process for registering people and storing them in a simple static list data structure ✨
+  ✨ A console application written in C to implement a process for registering users and storing them in a simple static list data structure ✨
 </p>
 
 <p align="center">
@@ -43,6 +43,28 @@ If you want contribute on this project, first you need to make a **git clone**:
 
 This will give you access to the code on your **local machine**.
 
+## ➤ Installation <a name = "installation"></a>
+
+```bash
+docker pull ghcr.io/lpmatos/static-list:main
+```
+
+## ➤ Usage <a name = "usage"></a>
+
+```bash
+cd src && gcc -o main main.c static-list.c && ./main
+```
+
+## ➤ Docker <a name = "docker"></a>
+
+To run the docker container:
+
+```bash
+docker container run -it --rm ghcr.io/lpmatos/static-list:main
+```
+
+Click [here](https://github.com/lpmatos/static-list/pkgs/container/static-list/versions) to see available image tags.
+
 ## ➤ Features
 
 - Create a static list in a simple way.
@@ -58,6 +80,23 @@ This will give you access to the code on your **local machine**.
 - Search element by content in list.
 - Destroy list reference of memory.
 - Pretty console flow.
+
+## ➤ Concepts <a name = "concepts"></a>
+
+### List
+
+A list is a structure that stores
+elements in an aligned way, that is,
+with elements arranged one after the
+other.
+
+### C struct
+
+In C programming, a struct (or structure) is a collection of variables (can be of different types) under a single name.
+
+<p>
+  <img alt="struct" src="https://www.geeksforgeeks.org/wp-content/uploads/Structure-In-C.png" width="350px" float="center"/>
+</p>
 
 ## ➤ Demo <a name = "demo"></a>
 
