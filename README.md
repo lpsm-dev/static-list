@@ -61,7 +61,19 @@ To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) 
 
 ## ➤ Project status <a name = "project-status"></a>
 
-This repository is a study project, therefore, it will not always be maintained 👻.
+This repository is a study project! 👻
+
+## ➤ Donations <a name = "donations"></a>
+
+<p align="center">
+  <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
+    <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
+  </a>
+
+  <a href="https://live.blockcypher.com/ltc/address/ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw/">
+    <img alt="Litecoin Address" src="https://img.shields.io/badge/Litecoin%20Address-black?style=for-the-badge&logo=litecoin&logoColor=white">
+  </a>
+</p>
 
 ## ➤ Show your support <a name = "show-your-support"></a>
 
@@ -73,6 +85,6 @@ Give me a ⭐️ if this project helped you!
   <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
 </p>
 
-Made with 💜 by [me](https://github.com/lpmatos) :wave: inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+Made with 💜 by [me](https://github.com/lpmatos) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
 </div>
