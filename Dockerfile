@@ -1,4 +1,4 @@
-FROM alpine:3.14 as base
+FROM alpine:3.15 as base
 
 FROM base as build
 RUN set -ex && apk add --no-cache gcc musl-dev
