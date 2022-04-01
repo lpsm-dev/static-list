@@ -1,30 +1,20 @@
 <div align="center">
 
-<p>
-  <img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px" float="center"/>
-</p>
+<img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px"/>
 
-<h2 align="center">✨ Simple static list ✨</h2>
-
-<div align="center">
+<h2>✨ Simple static list ✨</h2>
 
 [![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/lpmatos/crud-static-list)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/crud-static-list)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/crud-static-list)](https://github.com/lpmatos/crud-static-list)
 
-</div>
-
 ---
 
-<p align="center">
-  <img alt="gif-about" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif" width="450px" float="center"/>
-</p>
+<img alt="gif-about" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif" width="450px"/>
 
-<p align="center">
-  ✨ A console application written in C to implement a process for registering users and storing them in a simple static list data structure ✨
-</p>
+<p>✨ A console application written in C to implement a process for registering users and storing them in a simple static list data structure ✨</p>
 
-<p align="center">
+<p>
   <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#versioning">Versioning</a>
 </p>
@@ -136,9 +126,7 @@ This repository is a study project! 👻
 
 Give me a ⭐️ if this project helped you!
 
-<p>
-  <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
-</p>
+<img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
 
 Made with 💜 by [me](https://github.com/lpmatos) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
