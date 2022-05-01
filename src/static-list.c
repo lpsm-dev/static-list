@@ -88,11 +88,6 @@ void menuSearch() {
 }
 
 /*
- * Checking if the list has been created.
- */
-int isCreated(List *L) { return L != NULL; }
-
-/*
  * Dynamically allocates the list and return a reference pointer of List type.
  */
 List *initializeList() {
@@ -105,15 +100,9 @@ List *initializeList() {
 }
 
 /*
- * Return the list size.
+ * Checking if the list has been created.
  */
-int size(List *L) {
-  if (isCreated(L)) {
-    return L->tam;
-  } else {
-    return -1;
-  }
-}
+int isCreated(List *L) { return L != NULL; }
 
 /*
  * Checking if the list is empty.
@@ -132,6 +121,17 @@ int isEmpty(List *L) {
 int isFull(List *L) {
   if (isCreated(L)) {
     return L->tam == SIZE;
+  } else {
+    return -1;
+  }
+}
+
+/*
+ * Return the list size.
+ */
+int size(List *L) {
+  if (isCreated(L)) {
+    return L->tam;
   } else {
     return -1;
   }
