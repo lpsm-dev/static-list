@@ -34,7 +34,7 @@ docker pull ghcr.io/ci-monk/static-list:main
 cd src && gcc -o main main.c static-list.c && ./main
 ```
 
-## ➤ Docker <a name = "docker"></a>
+**Docker**
 
 To run the docker container:
 
