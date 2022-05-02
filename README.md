@@ -30,6 +30,8 @@ docker pull ghcr.io/ci-monk/static-list:main
 
 ## ➤ Usage <a name = "usage"></a>
 
+**Gcc**
+
 ```bash
 cd src && gcc -o main main.c static-list.c && ./main
 ```
