@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+### [1.0.1](https://github.com/ci-monk/static-list/compare/1.0.0...1.0.1) (2022-05-03)
+
+
+### :bug: Fixes
+
+* docker name ci ([a305a6e](https://github.com/ci-monk/static-list/commit/a305a6e8135eaa21f679d842468390be3313d303))
+* dockerfile bash ([fa198b5](https://github.com/ci-monk/static-list/commit/fa198b52a80c78f16fa2e6d83862bbf9099a5460))
+
 ## 1.0.0 (2022-05-03)
 
 
