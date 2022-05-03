@@ -10,7 +10,7 @@ RUN set -ex && gcc -o main main.c static-list.c
 FROM alpine:3.15
 RUN set -ex && \
     apk add --no-cache \
-        bash=5.1.8-r0
+        bash=5.1.16-r0
 WORKDIR /usr/src/app
 COPY --from=build [ "/tmp/main", "." ]
 
