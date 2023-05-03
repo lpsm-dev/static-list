@@ -1,6 +1,0 @@
-image:
-  file: .github/config/.gitpod.Dockerfile
-
-tasks:
-  - init: |
-      npm install
