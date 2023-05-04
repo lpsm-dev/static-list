@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px"/>
+<img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350"/>
 
 <h2>✨ Simple static list ✨</h2>
 
@@ -22,13 +22,13 @@
 
 ---
 
-## ➤ Installation <a name = "installation"></a>
+## ➤ Installation
 
 ```bash
 docker pull ghcr.io/ci-monk/static-list:main
 ```
 
-## ➤ Usage <a name = "usage"></a>
+## ➤ Usage
 
 **Gcc**
 
@@ -62,7 +62,7 @@ Click [here](https://github.com/ci-monk/static-list/pkgs/container/static-list/v
 - Destroy list reference of memory.
 - Pretty console flow.
 
-## ➤ Concepts <a name = "concepts"></a>
+## ➤ Concepts 
 
 ### List
 
@@ -79,25 +79,21 @@ In C programming, a struct (or structure) is a collection of variables (can be o
   <img alt="struct" src="https://www.geeksforgeeks.org/wp-content/uploads/Structure-In-C.png" width="350px" float="center"/>
 </p>
 
-## ➤ Demo <a name = "demo"></a>
+## ➤ Demo 
 
 https://user-images.githubusercontent.com/58797390/148273067-b6de6695-21c0-4ab7-ae9c-c8cd9eb4fbb5.mov
 
-## ➤ Versioning <a name = "versioning"></a>
+## ➤ Versioning
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
 
-## ➤ Project status <a name = "project-status"></a>
-
-This repository is a study project! 👻
-
-## ➤ Show your support <a name = "show-your-support"></a>
+## ➤ Show your support
 
 <div align="center">
 
 Give me a ⭐️ if this project helped you!
 
-<img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
+<img alt="star-wars" src="https://github.com/lpsm-dev/lpsm-dev/blob/main/assets/yoda.gif" width="225"/>
 
 Made with 💜 by [me](https://github.com/ci-monk) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
