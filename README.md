@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350"/>
+<img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="225"/>
 
 <h2>✨ Simple static list ✨</h2>
 
@@ -9,7 +9,7 @@
 
 ---
 
-<img alt="gif-about" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif" width="450px"/>
+<img alt="gif-about" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif" width="225"/>
 
 <p>✨ A console application written in C to register users and store them in a simple static list data structure ✨</p>
 
